@@ -1,0 +1,4 @@
+email,status,mfa_enabled,assigned_apps
+max@district.org,ACTIVE,TRUE,"Gmail,Zoom,SIS"
+yamada@district.org,ACTIVE,FALSE,"Gmail"
+sam@district.org,ACTIVE,TRUE,"Gmail,Canvas"
