@@ -1,6 +1,0 @@
-email,issue
-john@district.org,Exists in Google but missing in Okta
-yamada@district.org,Suspended in Google but still active in Okta
-yamada@district.org,Okta account without MFA enabled
-yamada@district.org,Okta user has no assigned Apple device
-sam@district.org,Okta user has no assigned Apple device
